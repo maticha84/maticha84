@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maticha84
-- 👀 I’m interested in log development and analysis. Currently a SOC analyst, I would like to become an application developer.
-- 🌱 I’m currently learning python language with OpenClassRooms. I am following the python application developer course.
+- 👀 I’m interested in log development and analysis. Currently a SOC analyst at Proximus Luxembourg S.A.
+- 🌱 I’m application developper Python since June, 18th 2022
 - 📫 How to reach me --> www.linkedin.com/in/létitia-carnicelli-valvin
 
 <!---
